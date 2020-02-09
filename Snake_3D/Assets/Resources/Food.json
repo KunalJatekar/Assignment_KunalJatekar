@@ -1,0 +1,9 @@
+{
+	"Foods": [{
+		"color": "#FF0000",
+		"points": "15"
+	}, {
+		"color": "#0029FF",
+		"points": "20"
+	}]
+}
